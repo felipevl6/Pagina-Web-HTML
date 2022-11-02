@@ -4,7 +4,7 @@
 
 ## Técnica utilizada:
 
-  Após a escolha do tema a ser escrito, foi necessário me aprofundar na linguagem de marcação para melhor entendimento do que seria construído. Foram pedidas Tags aprendidas em aula (<h1>-<h6>, <p>, <mark>, <small>, <i>, <u>, <strong>, <ol>, <ul>, <li>, <a>, <hr>, <sub>, <sup>, <blockquote>) e adicionais (<font>, <del>, <p>, <abbr>), por isso, tive de procurar as mesmas na internet, o que consegui concluir com sucesso.
+  Após a escolha do tema a ser escrito, foi necessário me aprofundar na linguagem de marcação para melhor entendimento do que seria construído. Foram pedidas Tags aprendidas em aula (< h1>-< h6>, < p>, < mark>, < small>, < i>, < u>, < strong>, < ol>, < ul>, < li>, < a>, < hr>, < sub>, < sup>, < blockquote>) e adicionais (< font>, < del>, < p>, < abbr>), por isso, tive de procurar as mesmas na internet, o que consegui concluir com sucesso.
 
 ## Instruções:
 
